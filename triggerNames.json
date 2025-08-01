@@ -41,5 +41,9 @@
   "Elgato Stream Deck",
   "Twitch Automatic Reward Redemption",
   "Twitch Channel Information Updated",
-  "Gamepad"
+  "Gamepad",
+  "Twitch Watch Streak",
+  "Twitch Power-ups",
+  "Twitch Custom EventSub Subscription",
+  "Twitch EventSub Status Changed"
 ]
